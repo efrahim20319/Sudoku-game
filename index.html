@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="./assets/css/style.css" />
+  <link rel="stylesheet" href="./assets/css/reset.css">
+  <link rel="stylesheet" href="./assets/css/normalize.css">
+  <link rel="stylesheet" href="./assets/css/cabecalho.css">
+  <link rel="stylesheet" href="./assets/css/menu/menu.css">
+  <link rel="stylesheet" href="./assets/css/menu/menu__logo.css">
+  <link rel="stylesheet" href="./assets/css/menu/menu__lista.css">
+  <link rel="stylesheet" href="./assets/css/menu/menu__item.css">
+  <link rel="stylesheet" href="./assets/css/jogo/jogo.css">
+  <link rel="stylesheet" href="./assets/css/jogo/gradePrincipal.css">
+  <link rel="stylesheet" href="./assets/css/jogo/regiao/regiao.css">
+  <link rel="stylesheet" href="./assets/css/jogo/regiao/regiao__casa.css">
+  <link rel="stylesheet" href="./assets/css/status/marcado.css">
+  <link rel="stylesheet" href="./assets/css/status/selecionado.css">
+  <link rel="stylesheet" href="./assets/css/status/numero-igual.css">
+  <link rel="stylesheet" href="./assets/css/status/numero-adicionado.css">
+  <link rel="stylesheet" href="./assets/css/status/repetido.css">
+  <link rel="stylesheet" href="./assets/css/status/repetido-original.css">
+  <link rel="stylesheet" href="./assets/css/status/repetido-selecionado.css">
+  <link rel="stylesheet" href="./assets/css/status/concluido.css">
+  <link rel="stylesheet" href="./assets/css/teclas/teclas.css">
+  <link rel="stylesheet" href="./assets/css/teclas/botao.css">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sudoku.com</title>
+</head>
+
+<body>
+  <header class="cabecalho">
+    <nav class="menu">
+      <div class="menu__logo">LOGO</div>
+      <ul class="menu__lista">
+        <li class="menu__item">sobre</li>
+        <li class="menu__item">dicas</li>
+        <li class="menu__item">comunidade</li>
+      </ul>
+    </nav>
+  </header>
+  <section class="jogo">
+    <div class="gradePrincipal">
+      <div class="regiao">
+        <div class="regiao__casa">11</div>
+        <div class="regiao__casa">12</div>
+        <div class="regiao__casa">13</div>
+        <div class="regiao__casa">21</div>
+        <div class="regiao__casa">22</div>
+        <div class="regiao__casa">23</div>
+        <div class="regiao__casa">31</div>
+        <div class="regiao__casa">32</div>
+        <div class="regiao__casa">33</div>
+      </div>
+      <div class="regiao">
+        <div class="regiao__casa">14</div>
+        <div class="regiao__casa">15</div>
+        <div class="regiao__casa">16</div>
+        <div class="regiao__casa">24</div>
+        <div class="regiao__casa">25</div>
+        <div class="regiao__casa">26</div>
+        <div class="regiao__casa">34</div>
+        <div class="regiao__casa">35</div>
+        <div class="regiao__casa">36</div>
+      </div>
+      <div class="regiao">
+        <div class="regiao__casa">17</div>
+        <div class="regiao__casa">18</div>
+        <div class="regiao__casa">19</div>
+        <div class="regiao__casa">27</div>
+        <div class="regiao__casa">28</div>
+        <div class="regiao__casa">29</div>
+        <div class="regiao__casa">37</div>
+        <div class="regiao__casa">38</div>
+        <div class="regiao__casa">39</div>
+      </div>
+      <div class="regiao">
+        <div class="regiao__casa">41</div>
+        <div class="regiao__casa">42</div>
+        <div class="regiao__casa">43</div>
+        <div class="regiao__casa">51</div>
+        <div class="regiao__casa">52</div>
+        <div class="regiao__casa">53</div>
+        <div class="regiao__casa">61</div>
+        <div class="regiao__casa">62</div>
+        <div class="regiao__casa">63</div>
+      </div>
+      <div class="regiao">
+        <div class="regiao__casa">44</div>
+        <div class="regiao__casa">45</div>
+        <div class="regiao__casa">46</div>
+        <div class="regiao__casa">54</div>
+        <div class="regiao__casa">55</div>
+        <div class="regiao__casa">56</div>
+        <div class="regiao__casa">64</div>
+        <div class="regiao__casa">65</div>
+        <div class="regiao__casa">66</div>
+      </div>
+      <div class="regiao">
+        <div class="regiao__casa">47</div>
+        <div class="regiao__casa">48</div>
+        <div class="regiao__casa">49</div>
+        <div class="regiao__casa">57</div>
+        <div class="regiao__casa">58</div>
+        <div class="regiao__casa">59</div>
+        <div class="regiao__casa">67</div>
+        <div class="regiao__casa">68</div>
+        <div class="regiao__casa">69</div>
+      </div>
+      <div class="regiao">
+        <div class="regiao__casa">71</div>
+        <div class="regiao__casa">72</div>
+        <div class="regiao__casa">73</div>
+        <div class="regiao__casa">81</div>
+        <div class="regiao__casa">82</div>
+        <div class="regiao__casa">83</div>
+        <div class="regiao__casa">91</div>
+        <div class="regiao__casa">92</div>
+        <div class="regiao__casa">93</div>
+      </div>
+      <div class="regiao">
+        <div class="regiao__casa">74</div>
+        <div class="regiao__casa">75</div>
+        <div class="regiao__casa">76</div>
+        <div class="regiao__casa">84</div>
+        <div class="regiao__casa">85</div>
+        <div class="regiao__casa">86</div>
+        <div class="regiao__casa">94</div>
+        <div class="regiao__casa">95</div>
+        <div class="regiao__casa">96</div>
+      </div>
+      <div class="regiao">
+        <div class="regiao__casa">77</div>
+        <div class="regiao__casa">78</div>
+        <div class="regiao__casa">79</div>
+        <div class="regiao__casa">87</div>
+        <div class="regiao__casa">88</div>
+        <div class="regiao__casa">89</div>
+        <div class="regiao__casa">97</div>
+        <div class="regiao__casa">98</div>
+        <div class="regiao__casa">99</div>
+      </div>
+    </div>
+    <div class="teclas">
+      <button class="botao">1</button>
+      <button class="botao">2</button>
+      <button class="botao">3</button>
+      <button class="botao">4</button>
+      <button class="botao">5</button>
+      <button class="botao">6</button>
+      <button class="botao">7</button>
+      <button class="botao">8</button>
+      <button class="botao">9</button>
+    </div>
+  </section>
+  <script src="./assets/js/1-coletaDeValores.js"></script>
+  <script src="./assets/js/2-marcacoes.js"></script>
+  <script src="./assets/js/3-preencher-casa.js"></script>
+  <script src="./assets/js/4-tratementoDeRepetidos.js"></script>
+  <script src="./assets/js/animacoes/grupoConcluido.js" ></script>
+  <audio src="./y2mate.com - Sonic 1  Star Light Zone Dance Remix.mp3" controls autoplay></audio>
+</body>
+
+</html>

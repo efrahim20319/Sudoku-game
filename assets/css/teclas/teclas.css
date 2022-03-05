@@ -1,0 +1,23 @@
+.teclas {
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    justify-content: center;
+    background-color: cornflowerblue;
+    padding: 0.15rem;
+    width: 5em;
+    border-radius: 3px;
+}
+
+
+@media screen and (min-width: 768px) {
+    .teclas {
+        margin: 0;
+        align-content: center;
+        display: grid;
+        width: 210px;
+        background-color: none;
+        grid-template-columns: repeat(3, 70px);
+        grid-template-rows: repeat(3, 100px);
+    }
+}

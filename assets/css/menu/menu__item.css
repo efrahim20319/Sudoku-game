@@ -1,0 +1,6 @@
+.menu__item {
+    margin-right: 15px;
+}
+.menu__item:last-child {
+    margin-right: 0;
+}

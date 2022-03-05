@@ -1,0 +1,5 @@
+.repetidoSelecionado {
+    background-color: rgb(188, 188, 248);
+    font-weight: 700;
+    transition: .5s ease;
+}

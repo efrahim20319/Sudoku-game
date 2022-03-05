@@ -1,0 +1,32 @@
+.botao {
+    height: 3em;
+    margin: 1px;
+    background-color: rgb(236, 239, 243);
+    border: none;
+    border-radius: 0px;
+}
+.botao:first-child{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.botao:last-child{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.botao:hover {
+    opacity: 70%;
+}
+
+@media screen and (min-width: 768px) {
+    .botao {
+        height: 100px;
+        margin: 0;
+        font-size: 1.5em;
+    }
+    .botao:first-child{
+        border-radius: 0%;
+    }
+    .botao:last-child{
+        border-radius: 0%;
+    }
+}

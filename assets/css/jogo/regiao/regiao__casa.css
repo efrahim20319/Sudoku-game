@@ -1,0 +1,10 @@
+.regiao__casa {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    background-color: #fdfdfd;
+    border: 1px solid gray;
+    width: 31.7%;
+    height: 32%;
+}

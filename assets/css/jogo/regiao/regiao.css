@@ -1,0 +1,19 @@
+.regiao {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    justify-content: space-around;
+    align-items: center;
+    height: 33%;
+    width: 32.5%;
+    font-size: 1.25em;
+    border: 1px solid black;
+}
+
+.regiao:not(.regiao:nth-child(3), .regiao:nth-child(6), .regiao:nth-child(9)) {
+    border-right: 2px solid black;
+}
+.regiao:not(.regiao:nth-child(1), .regiao:nth-child(2), .regiao:nth-child(3)) {
+    border-top: 2px solid black;
+}

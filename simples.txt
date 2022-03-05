@@ -1,0 +1,261 @@
+<div class="regiao">
+      <div class="regiao__casa">
+            11
+      </div>
+      <div class="regiao__casa">
+            12
+      </div>
+      <div class="regiao__casa">
+            13
+      </div>
+      <div class="regiao__casa">
+            21
+      </div>
+      <div class="regiao__casa">
+            22
+      </div>
+      <div class="regiao__casa">
+            23
+      </div>
+      <div class="regiao__casa">
+            31
+      </div>
+      <div class="regiao__casa">
+            32
+      </div>
+      <div class="regiao__casa">
+            33
+      </div>
+</div>
+<div class="regiao">
+      <div class="regiao__casa">
+            14
+      </div>
+      <div class="regiao__casa">
+            15
+      </div>
+      <div class="regiao__casa">
+            16
+      </div>
+      <div class="regiao__casa">
+            24
+      </div>
+      <div class="regiao__casa">
+            25
+      </div>
+      <div class="regiao__casa">
+            26
+      </div>
+      <div class="regiao__casa">
+            34
+      </div>
+      <div class="regiao__casa">
+            35
+      </div>
+      <div class="regiao__casa">
+            36
+      </div>
+</div>
+<div class="regiao">
+      <div class="regiao__casa">
+            17
+      </div>
+      <div class="regiao__casa">
+            18
+      </div>
+      <div class="regiao__casa">
+            19
+      </div>
+      <div class="regiao__casa">
+            27
+      </div>
+      <div class="regiao__casa">
+            28
+      </div>
+      <div class="regiao__casa">
+            29
+      </div>
+      <div class="regiao__casa">
+            37
+      </div>
+      <div class="regiao__casa">
+            38
+      </div>
+      <div class="regiao__casa">
+            39
+      </div>
+</div>
+<div class="regiao">
+      <div class="regiao__casa">
+            41
+      </div>
+      <div class="regiao__casa">
+            42
+      </div>
+      <div class="regiao__casa">
+            43
+      </div>
+      <div class="regiao__casa">
+            51
+      </div>
+      <div class="regiao__casa">
+            52
+      </div>
+      <div class="regiao__casa">
+            53
+      </div>
+      <div class="regiao__casa">
+            61
+      </div>
+      <div class="regiao__casa">
+            62
+      </div>
+      <div class="regiao__casa">
+            63
+      </div>
+</div>
+<div class="regiao">
+      <div class="regiao__casa">
+            44
+      </div>
+      <div class="regiao__casa">
+            45
+      </div>
+      <div class="regiao__casa">
+            46
+      </div>
+      <div class="regiao__casa">
+            54
+      </div>
+      <div class="regiao__casa">
+            55
+      </div>
+      <div class="regiao__casa">
+            56
+      </div>
+      <div class="regiao__casa">
+            64
+      </div>
+      <div class="regiao__casa">
+            65
+      </div>
+      <div class="regiao__casa">
+            66
+      </div>
+</div>
+<div class="regiao">
+      <div class="regiao__casa">
+            47
+      </div>
+      <div class="regiao__casa">
+            48
+      </div>
+      <div class="regiao__casa">
+            49
+      </div>
+      <div class="regiao__casa">
+            57
+      </div>
+      <div class="regiao__casa">
+            58
+      </div>
+      <div class="regiao__casa">
+            59
+      </div>
+      <div class="regiao__casa">
+            67
+      </div>
+      <div class="regiao__casa">
+            68
+      </div>
+      <div class="regiao__casa">
+            69
+      </div>
+</div>
+<div class="regiao">
+      <div class="regiao__casa">
+            71
+      </div>
+      <div class="regiao__casa">
+            72
+      </div>
+      <div class="regiao__casa">
+            73
+      </div>
+      <div class="regiao__casa">
+            81
+      </div>
+      <div class="regiao__casa">
+            82
+      </div>
+      <div class="regiao__casa">
+            83
+      </div>
+      <div class="regiao__casa">
+            91
+      </div>
+      <div class="regiao__casa">
+            92
+      </div>
+      <div class="regiao__casa">
+            93
+      </div>
+</div>
+<div class="regiao">
+      <div class="regiao__casa">
+            74
+      </div>
+      <div class="regiao__casa">
+            75
+      </div>
+      <div class="regiao__casa">
+            76
+      </div>
+      <div class="regiao__casa">
+            84
+      </div>
+      <div class="regiao__casa">
+            85
+      </div>
+      <div class="regiao__casa">
+            86
+      </div>
+      <div class="regiao__casa">
+            94
+      </div>
+      <div class="regiao__casa">
+            95
+      </div>
+      <div class="regiao__casa">
+            96
+      </div>
+</div>
+<div class="regiao">
+      <div class="regiao__casa">
+            77
+      </div>
+      <div class="regiao__casa">
+            78
+      </div>
+      <div class="regiao__casa">
+            79
+      </div>
+      <div class="regiao__casa">
+            87
+      </div>
+      <div class="regiao__casa">
+            88
+      </div>
+      <div class="regiao__casa">
+            89
+      </div>
+      <div class="regiao__casa">
+            97
+      </div>
+      <div class="regiao__casa">
+            98
+      </div>
+      <div class="regiao__casa">
+            99
+      </div>
+</div>
